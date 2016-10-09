@@ -1,0 +1,35 @@
+David:
+☑ Investigar: clase concreta derivada de una clase abstracta
+☑ TAD Vertice
+☑ TAD Lado
+- TAD Grafo Dirigido
+- TAD Grafo:
+	- cargarGrafo
+	- agregarvertice
+	- agregarVertice
+	- estaVertice	
+	- estaLado
+	- eliminarVertice
+	- eliminarLado
+	- clone
+	- toString
+
+Fabiola:
+- Investigar: clase concreta derivada de una clase abstracta
+- TAD Arco
+- TAD Arista
+- TAD Grafo No Dirigido
+- TAD Grafo:
+	- numeroDeVertices
+	- numeroDeLados
+	- obtenervertice
+	- vertices
+	- lados
+	- grado
+	- adyacentes
+	- incidentes
+
+Ambos:
+	- Cliente	
+	- Manejo de excepciones en java
+	- Como funciona la documentación de java (estandar de documentación java) como la haremos en nuestro programa.
